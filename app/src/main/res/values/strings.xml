@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Citizen</string>
+
+    <string name="nama">Kevin De Bruyn</string>
+    <string name="detail">Kevin De Bruyne adalah seorang pemain professional sepak bola asal Belgia yang bermain untuk Manchester City di Liga Utama Inggris dari posisi gelandang dan timnas Belgia yang juga dalam posisi gelandang</string>
+    <string name="detail_player">Detail Player</string>
+</resources>
